@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/es6-crawler-detect",
+    "version": "3.3.0",
+    "projects": [
+        "https://github.com/JefferyHus/es6-crawler-detect"
+    ],
+    "devDependencies": {
+        "@types/es6-crawler-detect": "workspace:."
+    },
+    "owners": [
+        {
+            "name": "Ardo Kusuma",
+            "githubUsername": "ardok"
+        }
+    ]
+}
